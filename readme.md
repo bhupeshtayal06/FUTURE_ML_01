@@ -65,16 +65,16 @@ An interactive **Streamlit dashboard** to analyze historical sales, detect outli
 Here are some of the interactive charts & insights included in the dashboard:
 
 ### 📈 Actual vs Forecasted Daily Sales
-![Actual vs Forecasted Daily Sales](assets/Actual_vs_Forecasted_Daily_Sales.png)
+![Actual vs Forecasted Daily Sales](images/Actual_vs_Forecasted_Daily_Sales.png)
 
 ### 📉 Historical Sales Trend
-![Historical Sales Trend](assets/Historical_Sales_Trend.png)
+![Historical Sales Trend](images/Historical_Sales_Trend.png)
 
 ### 📊 Sales & Profit Distribution
-![Sales & Profit Distribution](assets/Sales_Profit_Distribution.png)
+![Sales & Profit Distribution](images/Sales_Profit_Distribution.png)
 
 ### 📦 Profit Outliers by Category
-![Profit Outliers by Category](assets/Profit_Outliers_by_Category.png)
+![Profit Outliers by Category](images/Profit_Outliers_by_Category.png)
 
 ### 📅 Monthly Average Sales
-![Monthly Average Sales](assets/Monthly_Average_Sales.png)
+![Monthly Average Sales](images/Monthly_Average_Sales.png)
